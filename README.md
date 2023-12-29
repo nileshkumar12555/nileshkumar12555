@@ -6,6 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkumar12555&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumar12555" /> </p>
 
+
+# 💫 About Me:
+
+<ul>
+  <li>I am a Software Engineer based in India. </li>  
+  <li>I have done my Engineering in Computer Science from Vellore Institute of Technology. </li>  
+  <li>I am a Passionate Competitive Programmer and a great LeetCode enthusiast, having solved over 1000 questions on LeetCode with a Contest Rating over 100. </li>  
+  <li>Moreover, I also have experience working with MERN stack and both SQL and NoSQL databases..<br>My favourite stack to work on is Vite/React + Typescript + Tailwindcss + NodeJs </li>  
+  <li>I also have worked with languages such as Python, C, C++, Java, HTML, CSS, JavaScript, TypeScript and SQL. </li>  
+  <!--<li>I like reading Novels and am a 1400 ELo Chess Player. </li> -->
+  <!--<li>You can visit me on my portfolio website<a href="https://aayush65.com/">(aayush65.com)</a>. </li> -->
+</ul>
+
 - 👨‍💻 All of my projects are available [www.linkedin.com/in/nilesh-kumar79](www.linkedin.com/in/nilesh-kumar79)
 
 - 📫 How to reach me **nk9164953@gmail.com(www.linkedin.com/in/nilesh-kumar79)**
