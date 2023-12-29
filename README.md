@@ -11,7 +11,7 @@
 
 <ul>
   <li>I am a Software Engineer based in India. </li>  
-  <li>I have done my Engineering in Computer Science from Vellore Institute of Technology. </li>  
+  <li>I have done my Engineering in Computer Science from Lovely Professional University. </li>  
   <li>I am a Passionate Competitive Programmer and a great LeetCode enthusiast, having solved over 1000 questions on LeetCode with a Contest Rating over 100. </li>  
   <li>Moreover, I also have experience working with MERN stack and both SQL and NoSQL databases..<br>My favourite stack to work on is Vite/React + Typescript + Tailwindcss + NodeJs </li>  
   <li>I also have worked with languages such as Python, C, C++, Java, HTML, CSS, JavaScript, TypeScript and SQL. </li>  
