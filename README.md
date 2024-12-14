@@ -1,4 +1,6 @@
 ![logo](https://github.com/nileshkumar12555/nileshkumar12555/blob/main/baners.jpeg)
+
+
 <h1 align="center">Hi 👋, I'm Nilesh Kumar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
@@ -12,9 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nilesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilesh kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/nilesh79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilesh79" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nilesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nilesh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nk9164953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nk9164953" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshkumar12555&show_icons=true&locale=en" alt="nileshkumar12555" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkumar12555&" alt="nileshkumar12555" /></p>
+
